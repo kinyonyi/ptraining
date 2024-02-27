@@ -1,0 +1,28 @@
+*******List Questions******
+Write a Python program to sum all the items in a list
+Write a Python program to multiply all the items in a list
+Write a Python program to get the largest number from a list.
+Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.
+Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+Expected Output : ['Green', 'White', 'Black']
+Write a Python program to convert a list of characters into a string.
+Write a Python program to get the frequency of elements in a list.
+
+****Function Qtns******
+Write a Python function to find the maximum of three numbers.
+Write a Python program to reverse a string.
+Sample String : "1234abcd"
+Expected Output : "dcba4321"
+Write a Python function to create and print a list where the values are the squares of numbers between 1 and 30 (both included).
+Write a Python function that accepts a string and counts the number of upper and lower case letters.
+Sample String : 'The quick Brow Fox'
+Expected Output :
+No. of Upper case characters : 3
+No. of Lower case Characters : 12
+
+
+****String Qtns*******
+Write a Python program to count the number of characters (character frequency) in a string.
+Sample String : google.com'
+Expected Result : {'g': 2, 'o': 3, 'l': 1, 'e': 1, '.': 1, 'c': 1, 'm': 1}
+Write a Python function to reverse a string if its length is a multiple of 4.
