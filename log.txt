@@ -1,4 +1,10 @@
-ERROR:root:Error division by zero
-INFO:root:End of division
-ERROR:root:Error division by zero happend at 2024-02-27 13:14:51.253754
-INFO:root:End of division
+ERROR:root:float division by zero
+Traceback (most recent call last):
+  File "/Users/engdave/Desktop/policeT/file14.py", line 9, in <module>
+    output = num1 / num2
+             ~~~~~^~~~~~
+ZeroDivisionError: float division by zero
+INFO:root:Division successfull!
+ERROR:root:exception
+NoneType: None
+DEBUG:root:debug
