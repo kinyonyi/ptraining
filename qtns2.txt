@@ -1,0 +1,12 @@
+1. List the top N Pokémon with the highest overall stats.
+2. How many Pokémon belong to each Type 1 and Type 2 category?
+3. What is the most common combination of Type 1 and Type 2?
+4. What percentage of Pokémon are Legendary?
+5. What are the average stats for Legendary and non-Legendary Pokémon?
+6. How many Pokémon belong to each generation?
+7. Is there a trend in the stats across different generations?
+8. Which Type 1 has the highest average Attack? Defense?
+9. Is there any correlation between Attack and Defense?
+10. Do certain attributes correlate more strongly with each other?
+11. How do the average stats compare between Pokémon with different Type 1 categories?
+12. Is there a notable difference in stats between Pokémon with different Type 2 categories?
