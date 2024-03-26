@@ -1,0 +1,53 @@
+"""
+************Markers**********
+Point Markers:
+'.': Point marker
+',': Pixel marker
+'o': Circle marker
+'v': Downward-pointing triangle marker
+'^': Upward-pointing triangle marker
+'<': Left-pointing triangle marker
+'>': Right-pointing triangle marker
+'1', '2', '3', '4': Triangular markers pointing downward, leftward, upward, and rightward respectively
+'p': Pentagram marker
+'H': Hexagon marker
+'+': Plus marker
+'x': Cross (x) marker
+'D': Diamond marker
+'d': Thin diamond marker
+
+Line Markers:
+'-': Solid line
+'--': Dashed line
+'-.': Dash-dot line
+':': Dotted line
+"""
+
+"""
+Plot the graph of the function y = x ** 2
+x values ranging from -5 to 5.
+
+Compare the sine and cosine functions over the interval
+[0,2π] on the same plot
+x = np.linspace(0, 2 * np.pi, 100)
+y1 = np.sin(x)
+y2 = np.cos(x)
+"""
+
+"""
+#plot a graph, wc will have x values from 0 to 10
+#y1 values -> quares of the x values
+#y2 values -> sqrt of the x values
+#label the lines
+#have a title to the graph 
+#save it as plot1.png
+
+Plot the graph of the function y = x ** 2
+x values ranging from -5 to 5.
+
+Compare the sine and cosine functions over the interval
+[0,2π] on the same plot
+x = np.linspace(0, 2 * np.pi, 100)
+y1 = np.sin(x)
+y2 = np.cos(x)
+"""
